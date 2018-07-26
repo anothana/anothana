@@ -1,2 +1,7 @@
 Poor pluto, it used to be a planet
+<<<<<<< HEAD
 let see what will be happened
+=======
+
+Curtis has modified this!
+>>>>>>> 53bedc8a869b59c3f29d3ec3169e78004c261fc1
